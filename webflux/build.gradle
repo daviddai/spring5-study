@@ -1,0 +1,5 @@
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-webflux:2.3.0.RELEASE'
+    compile 'org.projectreactor:reactor-spring:1.0.1.RELEASE'
+    compile 'org.springframework:spring-tx:5.2.7.RELEASE'
+}
